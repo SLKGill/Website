@@ -15,8 +15,8 @@ div{
   text-align: center;
   
   border: 4px solid plum;
-  padding: 16px;
-  box-shadow: 16px 16px grey;
+  padding: 70px;
+  box-shadow: 16px 16px rgba(68, 64, 68, 0.87);
   /*depth, offset, colour*/
   border-radius: 16px;
 
@@ -31,7 +31,7 @@ img{
 
 a{
   text-decoration: none; /*gets rid of underline*/
-  colour: rgba(140, 197, 93, 0.61);
+  color: plum;
 }
 
 /*the dot in front indicates this is a class*/
